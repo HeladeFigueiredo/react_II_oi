@@ -1,5 +1,5 @@
 
-import { Text } from '../ui/Text';
+import { Text } from '../ui/text';
 
 export const NavItem = (props) => {
     return (
